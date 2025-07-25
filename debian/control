@@ -3,7 +3,7 @@ Section: admin
 Priority: optional
 Maintainer: System76 <info@system76.com>
 Build-Depends:
-  debhelper (>=9),
+  debhelper (>=10),
   cargo,
   rustc,
   libgtk-3-dev,
